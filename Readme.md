@@ -132,20 +132,20 @@ This project addresses these challenges by automating:
 
    - Input resume and job URL for document generation.
   
-    ![Alt Text](ss1.png)
+    ![Alt Text](SS1.png)
 
 
 2. **Cold Email Output:**
 
    - Professional cold email tailored to job requirements.
   
-     ![Alt Text](ss2.png)
+     ![Alt Text](SS2.png)
 
 3. **Cover Letter Output:**
 
    - Ready-to-use cover letter with downloadable options.
 
-     ![Alt Text](ss3.png)
+     ![Alt Text](SS3.png)
 
 ---
 
